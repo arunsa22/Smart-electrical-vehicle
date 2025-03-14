@@ -1,4 +1,4 @@
-#Smart Electric Vehicle with Inductive Charging Station Project
+# Smart Electric Vehicle with Inductive Charging Station Project
 
 ### Project Overview
 The Smart Electric Vehicle (EV) with Inductive Charging Station project aims to revolutionize the electric vehicle charging experience by integrating advanced technologies for seamless and efficient energy transfer. This innovative system leverages wireless power transfer through inductive charging to eliminate the need for physical connectors, enhancing user convenience and safety.
@@ -27,10 +27,10 @@ Enhanced Safety: Reduces risks associated with exposed electrical contacts.
 Efficiency: Optimized power transfer with minimal energy loss.
 Scalability: Suitable for various vehicle types and public infrastructure.
 
-###Applications
-Residential charging solutions
-Public charging stations
-Fleet management for electric buses and delivery vehicles
+### Applications
+* Residential charging solutions
+* Public charging stations
+* Fleet management for electric buses and delivery vehicles
 
 ### Conclusion
 The Smart Electric Vehicle with Inductive Charging Station project represents a significant step toward a sustainable and user-friendly electric mobility ecosystem. By leveraging advanced technologies, this project aims to enhance charging convenience, improve efficiency, and promote the widespread adoption of electric vehicles
