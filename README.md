@@ -4,15 +4,11 @@
 The Smart Electric Vehicle (EV) with Inductive Charging Station project aims to revolutionize the electric vehicle charging experience by integrating advanced technologies for seamless and efficient energy transfer. This innovative system leverages wireless power transfer through inductive charging to eliminate the need for physical connectors, enhancing user convenience and safety.
 
 ### Key Objectives
-Inductive Charging System Design: Develop a robust and efficient inductive charging station capable of wirelessly transferring energy to the vehicle's battery.
-
-Smart Vehicle Integration: Implement smart technologies within the EV to optimize energy consumption and charging efficiency.
-
-Automated Alignment System: Utilize sensors and positioning systems to ensure proper alignment between the vehicle and charging pad.
-
-Data Monitoring and Management: Enable real-time monitoring of charging status, energy consumption, and system diagnostics.
-
-Safety and Security: Incorporate safety measures such as over-voltage protection, foreign object detection, and secure data transmission.
+* Inductive Charging System Design: Develop a robust and efficient inductive charging station capable of wirelessly transferring energy to the vehicle's battery.
+* Smart Vehicle Integration: Implement smart technologies within the EV to optimize energy consumption and charging efficiency.
+* Automated Alignment System: Utilize sensors and positioning systems to ensure proper alignment between the vehicle and charging pad.
+* Data Monitoring and Management: Enable real-time monitoring of charging status, energy consumption, and system diagnostics.
+* Safety and Security: Incorporate safety measures such as over-voltage protection, foreign object detection, and secure data transmission.
 
 ### Technical Components
 1. Primary Coil Infrastructure: Embedded in the ground or charging pad, responsible for generating the magnetic field.
