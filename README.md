@@ -15,17 +15,17 @@ Data Monitoring and Management: Enable real-time monitoring of charging status, 
 Safety and Security: Incorporate safety measures such as over-voltage protection, foreign object detection, and secure data transmission.
 
 ### Technical Components
-Primary Coil Infrastructure: Embedded in the ground or charging pad, responsible for generating the magnetic field.
-Secondary Coil in EV: Installed in the vehicle to receive the magnetic field and convert it into electrical energy.
-Power Electronics and Control System: Manages the energy flow and optimizes power transfer efficiency.
-Communication Module: Facilitates data exchange between the vehicle and charging station for system monitoring and control.
-User Interface: Provides users with real-time information on charging status and energy usage.
+1. Primary Coil Infrastructure: Embedded in the ground or charging pad, responsible for generating the magnetic field.
+2. Secondary Coil in EV: Installed in the vehicle to receive the magnetic field and convert it into electrical energy.
+3. Power Electronics and Control System: Manages the energy flow and optimizes power transfer efficiency.
+4. Communication Module: Facilitates data exchange between the vehicle and charging station for system monitoring and control.
+5. User Interface: Provides users with real-time information on charging status and energy usage.
 
 ### Benefits
-Convenience: No need for manual plugging and unplugging.
-Enhanced Safety: Reduces risks associated with exposed electrical contacts.
-Efficiency: Optimized power transfer with minimal energy loss.
-Scalability: Suitable for various vehicle types and public infrastructure.
+* Convenience: No need for manual plugging and unplugging.
+* Enhanced Safety: Reduces risks associated with exposed electrical contacts.
+* Efficiency: Optimized power transfer with minimal energy loss.
+* Scalability: Suitable for various vehicle types and public infrastructure.
 
 ### Applications
 * Residential charging solutions
